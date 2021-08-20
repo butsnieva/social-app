@@ -1,0 +1,27 @@
+{
+  "name": "social-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.13.2",
+    "nodemon": "^2.0.12"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/butsnieva/social-app.git"
+  },
+  "keywords": [],
+  "author": "Kateryna B.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/butsnieva/social-app/issues"
+  },
+  "homepage": "https://github.com/butsnieva/social-app#readme"
+}
